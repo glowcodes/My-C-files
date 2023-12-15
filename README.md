@@ -1,2 +1,2 @@
 # My-C-files
-SCHOOL FILES FOR OUR C PROGRAMMING COURSE
+My C starter pack full of memories, nothing extra ordinary - just a beginner dev hoping for bigger things. It all started here, and I'm glad it did.
